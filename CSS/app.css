@@ -1,9 +1,28 @@
 h1 {
-	color: red;
+	/*color: red;*/
+	color: #ff9000;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 5px solid purple;
 }
 li{
-	color: green;
+	color: #42bff4;
 }
 h4 {
-	color: purple;
+	/*color: purple;*/
+	/*color: rgb(0,0,0);*/
+	/*background: #c2efe5;*/
+	/*color: rgba(140,0,100,.5)*/
+	color: #e8e8d3;
 }
+body {
+	background: url(518169-backgrounds.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/* color: #HexNumber(6 digits) */
+/* color: rgb(digit,digit,digit) digit range from 0 to 255 */
+/* color rgba(digit,digit,digit,transparency) transparency ranges from 0 to 1 */
+/*selectors: element, ID(#) and Class(.)*/
